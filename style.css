@@ -52,6 +52,7 @@ ul{
     height: 200px;
     width: 75%;
 }
+
 .nav-link:hover{
     background-color: #007bff;
     border-radius: 20px;
